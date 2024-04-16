@@ -1,0 +1,8 @@
+
+export const TYPES = {
+    INCREMENT_5: "INCREMENT_5",
+    INCREMENT: "INCREMENT",
+    DECREMENT_5: "DECREMENT_5",
+    DECREMENT: "DECREMENT",
+  };
+  
